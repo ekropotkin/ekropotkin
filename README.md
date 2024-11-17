@@ -5,7 +5,7 @@ I'm currently work at EPAM. That's all, folks
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kropotkin) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kropotkin)<br/>
 :phone: preferred communication method
 
 # 💻 Tech Stack:
