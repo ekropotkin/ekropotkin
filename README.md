@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently work at EPAM. That's all, folks
-
+I'm currently work at EPAM.
+Still in :heart: with Information Technology since 1996! After all this time? Always!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kropotkin)<br/>
