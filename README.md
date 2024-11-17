@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently work at EPAM.
+I'm currently work at EPAM.<br/>
 Still in :heart: with Information Technology since 1996! After all this time? Always!
 
 ## 🌐 Socials:
