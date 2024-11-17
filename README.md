@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am Working in EPAM Anywhere from Anywhere.<br/>
+I am working for EPAM, anytime anyplace Anywhere.<br/>
 Still in :heart: with Information Technology since 1996! After all this time? Always!
 
 ## 🌐 Socials:
